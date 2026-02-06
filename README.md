@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @ibraheemk47
-- 👀 I’m interested in programming and software development
-- 🌱 I’m currently learning AWS cloud
-- 💞️ I’m looking to collaborate on building and developing a cloud architechture 
-- 📫 How to reach me ibraheemk47@gmail.com
+# Hi there, I'm Syed Ibraheem Khaleel Ullah 👋
 
-<!---
-ibraheemk47/ibraheemk47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### DevOps Engineer
+I am a results-oriented DevOps Engineer with 2 years of experience. I focus on Infrastructure as Code (IaC), cloud architecture, and operational efficiency.
+
+---
+
+### 🚀 About Me
+I specialize in eliminating manual toil through automation. My core focus is **codifying infrastructure using Terraform** and **orchestrating containerized applications with Kubernetes**. 
+
+* **Key Achievement:** Streamlined CI/CD pipelines to reduce deployment friction, ensuring faster and more reliable releases.
+* **Focus:** I build self-healing, scalable systems that prioritize uptime and security.
+
+---
+
+### 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & Infrastructure** | AWS, Azure, Terraform, Ansible |
+| **Containerization** | Docker, Kubernetes |
+| **CI/CD** | Jenkins, GitLab CI, GitHub Actions |
+| **Scripting & Languages** | Python, Bash, YAML |
+| **Monitoring & Logging** | Prometheus, Grafana, ELK Stack |
+| **Version Control** | Git, GitHub, Bitbucket |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibraheemk47&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheemk47&layout=compact&theme=radical&hide_border=true" />
+</a>
+</p>
+
+---
+
+### 🔗 Connect with Me
+
+<a href="https://www.linkedin.com/in/syed-ibraheem-khaleel-ullah-2526b051/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
