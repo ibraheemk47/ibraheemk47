@@ -26,13 +26,13 @@ I specialize in eliminating manual toil through automation. My core focus is **c
 
 ---
 
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibraheemk47&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheemk47&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibraheemk47&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
 
 ### 🔗 Connect with Me
 
