@@ -26,18 +26,13 @@ I specialize in eliminating manual toil through automation. My core focus is **c
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibraheemk47&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheemk47&layout=compact&theme=radical&hide_border=true" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibraheemk47&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraheemk47&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Langs" />
 </p>
-
----
 
 ### 🔗 Connect with Me
 
